@@ -22,7 +22,7 @@ const PhotoList = ({ category }) => {
     },
     {
       name: 'Restaurant table',
-      category: 'commercial', 
+      category: 'commercial',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie'
     },
