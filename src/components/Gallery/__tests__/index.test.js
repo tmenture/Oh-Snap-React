@@ -7,7 +7,7 @@ const portrait = { name: "portraits", description: "Portraits of people in my li
 
 afterEach(cleanup)
 
-describe('Gallery component', () => {
+describe('Gallery component renders', () => {
 
   it('renders', () => {
     render(<Gallery currentCategory={portrait} />);
