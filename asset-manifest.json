@@ -1,21 +1,28 @@
 {
   "files": {
-    "main.css": "/Oh-Snap-React/static/css/main.8832ea63.css",
-    "main.js": "/Oh-Snap-React/static/js/main.046949f1.js",
-    "static/js/787.1ed0c42c.chunk.js": "/Oh-Snap-React/static/js/787.1ed0c42c.chunk.js",
-    "static/media/0.jpg": "/Oh-Snap-React/static/media/0.aae354cffe126735c6a7.jpg",
-    "static/media/2.jpg": "/Oh-Snap-React/static/media/2.73361bef8e26b971e197.jpg",
-    "static/media/1.jpg": "/Oh-Snap-React/static/media/1.863e6935e38396aecb5d.jpg",
-    "static/media/3.jpg": "/Oh-Snap-React/static/media/3.dd376ef9a77aa73dbb1b.jpg",
-    "static/media/4.jpg": "/Oh-Snap-React/static/media/4.3b0c40e1612f92a7c758.jpg",
-    "static/media/cover-image.jpg": "/Oh-Snap-React/static/media/cover-image.533ae8f6f0bf6c415f11.jpg",
+    "main.css": "/Oh-Snap-React/static/css/main.de94d79f.chunk.css",
+    "main.js": "/Oh-Snap-React/static/js/main.314758c3.chunk.js",
+    "main.js.map": "/Oh-Snap-React/static/js/main.314758c3.chunk.js.map",
+    "runtime-main.js": "/Oh-Snap-React/static/js/runtime-main.c79e7695.js",
+    "runtime-main.js.map": "/Oh-Snap-React/static/js/runtime-main.c79e7695.js.map",
+    "static/js/2.03d114c6.chunk.js": "/Oh-Snap-React/static/js/2.03d114c6.chunk.js",
+    "static/js/2.03d114c6.chunk.js.map": "/Oh-Snap-React/static/js/2.03d114c6.chunk.js.map",
+    "static/js/3.e6e36b2a.chunk.js": "/Oh-Snap-React/static/js/3.e6e36b2a.chunk.js",
+    "static/js/3.e6e36b2a.chunk.js.map": "/Oh-Snap-React/static/js/3.e6e36b2a.chunk.js.map",
     "index.html": "/Oh-Snap-React/index.html",
-    "main.8832ea63.css.map": "/Oh-Snap-React/static/css/main.8832ea63.css.map",
-    "main.046949f1.js.map": "/Oh-Snap-React/static/js/main.046949f1.js.map",
-    "787.1ed0c42c.chunk.js.map": "/Oh-Snap-React/static/js/787.1ed0c42c.chunk.js.map"
+    "static/css/main.de94d79f.chunk.css.map": "/Oh-Snap-React/static/css/main.de94d79f.chunk.css.map",
+    "static/js/2.03d114c6.chunk.js.LICENSE.txt": "/Oh-Snap-React/static/js/2.03d114c6.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/Oh-Snap-React/static/media/0.b18c130d.jpg",
+    "static/media/1.jpg": "/Oh-Snap-React/static/media/1.ffe481f4.jpg",
+    "static/media/2.jpg": "/Oh-Snap-React/static/media/2.da4d6061.jpg",
+    "static/media/3.jpg": "/Oh-Snap-React/static/media/3.dd376ef9.jpg",
+    "static/media/4.jpg": "/Oh-Snap-React/static/media/4.ed3b1a69.jpg",
+    "static/media/cover-image.533ae8f6.jpg": "/Oh-Snap-React/static/media/cover-image.533ae8f6.jpg"
   },
   "entrypoints": [
-    "static/css/main.8832ea63.css",
-    "static/js/main.046949f1.js"
+    "static/js/runtime-main.c79e7695.js",
+    "static/js/2.03d114c6.chunk.js",
+    "static/css/main.de94d79f.chunk.css",
+    "static/js/main.314758c3.chunk.js"
   ]
 }
